@@ -1,3 +1,4 @@
+// What is dynamic method dispatch : kis object ka konsa method call hoga ye cheej jab runtime me decide hoti hai then it is called dynamic method dispatch 
 // Phone obj = new Smartphone(); ✅ Valid
 // Smartphone obj = new Phone(); ❌ Not Valid
 
