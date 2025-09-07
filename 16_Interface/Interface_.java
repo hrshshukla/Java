@@ -3,6 +3,7 @@
 //                  --> Cannot use multiple abstract class to create one class 
 
 // Interface : --> Only have abstract methods
+//             --> All methods inside the interface are always public and cannot be private or protected
 //             --> "implement" keyword is used for inheritance  
 //             --> Multiple interfaces can be used to create one class => ✅ class child implements interface1, interface2{ }
 
